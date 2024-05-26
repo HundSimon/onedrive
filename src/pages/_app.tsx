@@ -29,7 +29,6 @@ import {
   faCheckCircle,
 } from '@fortawesome/free-regular-svg-icons'
 import {
-  faSearch,
   faPen,
   faCheck,
   faPlus,
@@ -108,7 +107,6 @@ library.add(
   faHome,
   faCheck,
   faCheckCircle,
-  faSearch,
   faChevronDown,
   faTh,
   faThLarge,
